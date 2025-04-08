@@ -1,6 +1,13 @@
 # RASAsLC
 
-A Python-based project for managing and analyzing astronomical CCD data.
+This repository deals with calibration of raw lightcurve data from RASA 11 and FKI camera Kepler KL4040. 
+
+SPHEREx sub-project with Solar Sytem Object Catalog (SSOC) team. The members are
+- Seoul National University (SNU) team
+- Yoonsoo P. Bach (KASI)
+- Jooyeon Geem (LTU)
+- Max Malkhe
+- Carey M. Lisse
 
 ## Features
 - FITS file handling
