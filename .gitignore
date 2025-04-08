@@ -1,0 +1,39 @@
+
+---
+
+## 🚫 2. Add `.gitignore`
+
+Create a file named `.gitignore` in the same folder. Here’s a solid one for Python + Conda + VS Code:
+
+```gitignore
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Conda environment / virtualenv
+.env
+.venv
+env/
+venv/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+
+# Other folders to ignore
+__data__/
+__doc__/
+fig/
+testobs/
+sihu/
+
+# FITS or large data files (optional)
+*.fits
+*.fz
